@@ -1,4 +1,4 @@
-import UserList from "../../components/UserList";
+
 import user1 from "../../public/images/user1.avif";
 import user2 from "../../public/images/user2.jpg";
 import user3 from "../../public/images/user3.avif";
@@ -9,6 +9,7 @@ import user7 from "../../public/images/user7.avif";
 import user8 from "../../public/images/user8.avif";
 import user9 from "../../public/images/user9.avif";
 import user10 from "../../public/images/user10.avif";
+import UserList from "@/components/UserList";
 
 
 
